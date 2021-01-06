@@ -1,3 +1,3 @@
 export default {
-  api_key: "bbb"
+  api_key: "ccc"
 };
